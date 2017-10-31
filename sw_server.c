@@ -6,6 +6,7 @@
 #include<stdlib.h>
 #include<arpa/inet.h>
 #define SIZE 4
+
 int main(int argc, char *argv[])
 {
         int sfd,lfd,len,i,j,status;
